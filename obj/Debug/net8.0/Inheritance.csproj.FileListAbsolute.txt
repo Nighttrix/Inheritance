@@ -1,0 +1,15 @@
+/home/voodoo_child/Documents/GitProjects/Inheritance/bin/Debug/net8.0/Inheritance
+/home/voodoo_child/Documents/GitProjects/Inheritance/bin/Debug/net8.0/Inheritance.deps.json
+/home/voodoo_child/Documents/GitProjects/Inheritance/bin/Debug/net8.0/Inheritance.runtimeconfig.json
+/home/voodoo_child/Documents/GitProjects/Inheritance/bin/Debug/net8.0/Inheritance.dll
+/home/voodoo_child/Documents/GitProjects/Inheritance/bin/Debug/net8.0/Inheritance.pdb
+/home/voodoo_child/Documents/GitProjects/Inheritance/obj/Debug/net8.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/voodoo_child/Documents/GitProjects/Inheritance/obj/Debug/net8.0/Inheritance.AssemblyInfoInputs.cache
+/home/voodoo_child/Documents/GitProjects/Inheritance/obj/Debug/net8.0/Inheritance.AssemblyInfo.cs
+/home/voodoo_child/Documents/GitProjects/Inheritance/obj/Debug/net8.0/Inheritance.csproj.CoreCompileInputs.cache
+/home/voodoo_child/Documents/GitProjects/Inheritance/obj/Debug/net8.0/Inheritance.sourcelink.json
+/home/voodoo_child/Documents/GitProjects/Inheritance/obj/Debug/net8.0/Inheritance.dll
+/home/voodoo_child/Documents/GitProjects/Inheritance/obj/Debug/net8.0/refint/Inheritance.dll
+/home/voodoo_child/Documents/GitProjects/Inheritance/obj/Debug/net8.0/Inheritance.pdb
+/home/voodoo_child/Documents/GitProjects/Inheritance/obj/Debug/net8.0/Inheritance.genruntimeconfig.cache
+/home/voodoo_child/Documents/GitProjects/Inheritance/obj/Debug/net8.0/ref/Inheritance.dll
